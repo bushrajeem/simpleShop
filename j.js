@@ -12,7 +12,7 @@ let product = [
     name: "laptop",
     image: "./image/laptop.png",
     price: 4,
-    description: "High-performanced laptop",
+    description: "High-performance laptop",
   },
   {
     name: "camera",
@@ -34,7 +34,7 @@ let productshow = product
   .map((value, i) => {
     return `<div class = "card">
                <img src= "${value.image}" alt=" ">
-               <div>${value.name}</div>
+               <div class="card-name">${value.name}</div>
                <div>$${value.price}</div>
                <div>${value.description}</div>
                <button class= "cart-button" onclick="addtocart(${value.price},${i})">ADD TO CART</button>
