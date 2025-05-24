@@ -30,12 +30,4 @@ This is a simple and responsive shopping cart web application built using **HTML
 ![Quantity increased](image-1.png)
 
 ## 📂 Folder Structure
-project-folder/
-├── index.html
-├── j.css
-├── j.js
-├── image/
-│ ├── phone.jfif
-│ ├── laptop.png
-│ ├── camera.png
-│ └── smartwatch.png
+![project folder](image-3.png)
