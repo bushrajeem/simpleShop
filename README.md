@@ -25,3 +25,6 @@ This is a simple and responsive shopping cart web application built using **HTML
 ---
 ## 📸 Screenshots
 # simpleShop
+![Website](image-2.png)
+![Items added to cart](image.png)
+![Quantity increased](image-1.png)
